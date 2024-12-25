@@ -1,0 +1,108 @@
+body{
+     background-color: #6610f2;
+}
+h1{
+	color: whitesmoke;
+	justify-content: center;
+}
+h4{
+	color: whitesmoke;
+	margin-top: 30px;
+}
+hr{ 
+	color: black;
+	border: 3px solid black;
+}
+.circle {
+      width: 400px;
+      height:400px;
+      background-color: whitesmoke;
+      border-radius: 50%;
+      border: 3px solid black;
+      margin-left: 20px;
+      background-image: url("profile.jpeg");
+      background-size: cover;
+}
+.smallbox {
+      width: 800px;
+      height:250px;
+      background-color: lightgreen;
+      border: 3px solid black;
+      border-radius: 15px; 
+      margin-left: 500px;
+      font-size: 20px;
+      color: indigo;
+      font-weight: 700;
+      
+}
+.smallbox2{
+      width: 620px;
+      height:300px;
+      background-color: lightgreen;
+      border: 3px solid black;
+      border-radius: 15px; 
+      font-size: 20px;
+      color: indigo;
+      font-weight: 700;
+      margin-left: 10PX;
+      margin-top: 10px;
+
+}
+.card{
+	   display: inline-block;
+	   padding: 10px;
+	   border: 2px solid black;
+	   margin: 20PX;
+	}
+.card-img-top{
+            width: 260px;
+            height: 300px;
+            border: 2PX solid black;
+}
+.card-title{
+         text-align: center;
+}
+
+.socialicons{
+	text-decoration: none;
+	padding: 10px;
+	display: flex;
+	justify-content: center;
+	color: whitesmoke;
+	font-size: 9em;    
+}
+P1{
+	 font-weight: bold;
+	 font-size: 30px;
+}
+
+P2{
+	 font-weight: bold;
+	 font-size: 30px;
+}
+
+P3{
+	 font-weight: bold;
+	 font-size: 30px;
+}
+
+P4{
+	 font-weight: bold;
+	 font-size: 30px;
+}
+
+P5{
+	 font-weight: bold;
+	 font-size: 30px;
+}
+
+P6{
+	 font-weight: bold;
+	 font-size: 30px;
+}
+li{
+	font-size: 30px;
+}
+a{
+	color: black;
+}
